@@ -1,6 +1,6 @@
 {
   "name": "text-overflow-ellipsis",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "React components of text overflow ellipsis",
   "repository": "https://github.com/catmiminini/text-overflow-ellipsis",
   "main": "dist/index.js",
