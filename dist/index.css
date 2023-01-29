@@ -1,14 +1,10 @@
-h1 {
-  color: red;
-}
-
-.singleline-ellipsis {
+.single-line-ellipsis {
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
 }
 
-.multiline-ellipsis {
+.multi-line-ellipsis {
   display: -webkit-box;
   -webkit-box-orient: vertical;
   overflow: hidden;

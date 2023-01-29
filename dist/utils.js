@@ -1,5 +1,10 @@
 "use strict";
 
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+exports.isMultiLineOverflow = isMultiLineOverflow;
+exports.isSingleLineOverflow = isSingleLineOverflow;
 function testContentOverflow(cellChild) {
   if (!isValidEle(cellChild)) throw new TypeError('Param el of testContentOverflow');
   var range = document.createRange();
